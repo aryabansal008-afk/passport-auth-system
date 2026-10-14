@@ -1,6 +1,6 @@
 # Passport Local Authentication
 
-A secure authentication system built with **Node.js**, **Express.js**, **MongoDB**, and **Passport.js**. This application implements user registration, login, session management, and logout functionality using Passport Local Strategy.
+A secure authentication system built with **Node.js**, **Express.js**, **MongoDB** and **Passport.js**. This application implements user registration, login, session management, and logout functionality using Passport Local Strategy.
 
 ## 🚀 Features
 
