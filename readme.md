@@ -67,7 +67,7 @@ npm start
 
 * User enters name, email and password
 * Password is hashed using bcrypt before being stored
-* Duplicate email registrations are prevented.
+* Duplicate email registrations are prevented
 
 ### Login
 
